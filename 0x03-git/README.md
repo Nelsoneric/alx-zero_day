@@ -1,1 +1,1 @@
-My second readme
+alx is a nice programming school
